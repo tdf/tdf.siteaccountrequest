@@ -9,7 +9,7 @@ from z3c.form import field, button, validator
 from Products.statusmessages.interfaces import IStatusMessage
 from Products.CMFCore.interfaces import ISiteRoot
 from Products.CMFCore.utils import getToolByName
-from tdf.extensionsiteaccountform import _
+from tdf.siteaccountrequest import _
 
 from zope.schema.interfaces import Bool
 
