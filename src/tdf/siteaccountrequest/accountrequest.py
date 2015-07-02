@@ -138,7 +138,7 @@ class SiteAccountRequest(form.SchemaForm):
 
     schema = ISiteAccountRequest
 
-    label = _(u"Hosting your Product(s)")
+    label = _(u"Hosting your Product(s) (Registration)")
     description = _(u"Please leave a short description of your project below.")
 
     ignoreContext = True
